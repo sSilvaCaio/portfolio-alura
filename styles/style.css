@@ -120,11 +120,11 @@ body{
 
     .cabecalho__menu{
         justify-content: center;
-        padding: 5%;
     }
 
     .apresentacao{
         flex-direction: column-reverse;
+        padding: 5%;
     }
 
     .apresentacao__conteudo{
